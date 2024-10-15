@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.AssemblyInfo.cs
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.sourcelink.json
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\bin\Debug\net8.0\Ecommerce.Cart.deps.json
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\bin\Debug\net8.0\Ecommerce.Cart.dll
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\bin\Debug\net8.0\Ecommerce.Cart.pdb
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.dll
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\refint\Ecommerce.Cart.dll
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\Ecommerce.Cart.pdb
+C:\Users\andre\source\repos\Ecommerce.Cart\Ecommerce.Cart\obj\Debug\net8.0\ref\Ecommerce.Cart.dll
